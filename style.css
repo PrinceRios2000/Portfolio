@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin-top: 25px;
+    margin-right: 55px;
+    margin-left: 55px;
+    margin-bottom: 15px;
+}
+
+sped {
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+body {
+    font-family: 'open sans', sans-serif ;
+}
