@@ -21,3 +21,7 @@ sped {
 body {
     font-family: 'open sans', sans-serif ;
 }
+nav ul li a {
+    text-decoration: name;
+    color: #000000;
+}
